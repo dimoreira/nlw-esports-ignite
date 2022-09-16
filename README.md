@@ -6,11 +6,13 @@ Este projeto foi desenvolvido durante o Next Level Week eSports estruturado e ap
 
 ## 🧑‍🎨 Design
 
-Todo o design foi criado no Figma e está disponibilizado abaixo:
+Todo o UI Design foi desenvolvido no Figma e disponibilizado no link a seguir:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FTYG12SIZtKp3uXvJfwdAbl%2FNLW-eSports-(Community)%3Fnode-id%3D0%253A1"></iframe>
+![Figma Design](./web/public/github_assets/figma-design.png)
 
 [Link para o Figma](https://www.figma.com/file/TYG12SIZtKp3uXvJfwdAbl/NLW-eSports-(Community)?node-id=6%3A23)
+
+---
 
 ## 💠 API Backend
 
